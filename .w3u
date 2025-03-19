@@ -72,13 +72,13 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeEbriCK0i5upYb3G-zOa9Owzrv_knWuMkdRxpYVsVrw&s",
 "stations": [
 
-{"name": "M+ L CAMPEONES", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
-"url": "https://nubex.stream:8443/MartinRodriguez/gEGYJrpf/94365"},
+{"name": "M+ L CAMPEONES", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
+"url"::https://nubex.stream:8443/MartinRodriguez/gEGYJrpf/94369"},
 
-{"name": "M+ L CAMPEONES 2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
-"url": "https://nubex.stream:8443/MartinRodriguez/gEGYJrpf/94369"},
+{"name":"LIGA CAMPEONES 2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
+"url":"https://nubex.stream:8443/MartinRodriguez/gEGYJrpf/94369"},
 
-{"name": "M+ L CAMPEONES 3", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+{"name": "M+ L CAMPEONES 3", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
 "url": "https://nubex.stream:8443/MartinRodriguez/gEGYJrpf/94377"},
 
 {"name":"LIGA CAMPEONES 4", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s", 
@@ -108,13 +108,13 @@
 {"name":"MVAMOS", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
 "url":"https://nubex.stream:8443/MartinRodriguez/gEGYJrpf/6794"},
 
-{"name": "HIPERMOTION", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+{"name": "HIPERMOTION", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
 "url": "https://nubex.stream:8443/MartinRodriguez/gEGYJrpf/94354"},
 
-{"name": "HIPERMOTION 2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+{"name": "HIPERMOTION 2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
 "url": "https://nubex.stream:8443/MartinRodriguez/gEGYJrpf/94359"},
 
-{"name": "M+ DEPORTES", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+{"name": "M+ DEPORTES", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
 "url": "https://nubex.stream:8443/MartinRodriguez/gEGYJrpf/1858"},
 
 {"name":"MDEPORTES1", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
@@ -135,7 +135,7 @@
 {"name":"DANZ1", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE311R93p_3AQv3wq0pG3JCqXh1ycNDdEp6TXPrNiBt2bcayYjNeWlgds&s&usqp=CAU",
 "url":"http://tvsoso.ottc.pro:80/8MTQGHDMIB/GTNI9XYSYD/41323"},
 
-{"name": "M+ L BAR", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+{"name": "M+ L BAR", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
 "url": "http://global-protyrdu.pro:8080/3aYjUrDR8QJ7/2cfmwQUhmcKR/598038"}]},
 
 {"name": "ESPAÑA TDT",
